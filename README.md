@@ -1,3 +1,3 @@
-# BUVR（Blackshell User Verified Repository）：
-## 这里是BUVR仓库！本处放置验证过的通用脚本！
-在此获取各种使用脚本 如IY、DEX那些的
+# BUR（Blackshell User Repository）：
+## 这里是BUR仓库！本处放置游戏专用脚本！
+在此获取各种使用脚本 如Doors - Blackking脚本那些的
