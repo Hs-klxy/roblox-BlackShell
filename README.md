@@ -1,4 +1,8 @@
 # roblox-BlackShell : 黑壳😱😱😱
+## 🎉 喜报
+我们的代码通过gui2lua工具转换下来共计已经写了4000行！
+
+
 ## ℹ 简介
 因看到NoOneLoveMe视频评论区底下有人发“黑壳” + “壳 = shell = [（Bash），（Zsh），（Windows PowerShell） ...]”受启发制作的roblox内仿linux shell
 
